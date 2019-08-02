@@ -1,6 +1,11 @@
 # Live2D API
 
-Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+Live2D 使用的后端 API
+源：https://www.fghrsh.net/post/123.html
+# 感谢FGHRSH
+
+### 我的添加
+- 加入Terisa, 和2233的另一组模型
 
 ### 特性
 
