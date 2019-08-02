@@ -1,0 +1,14 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "22",
+	"model": "22.moc",
+	"layout": {
+		"center_x": 0,
+		"center_y": -0.7,
+		"width": 2.5,
+		"height": 2.5
+	},
+	"textures": [
+		"texture.512/t1exture_00.png"
+	]
+}
